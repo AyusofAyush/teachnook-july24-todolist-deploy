@@ -54,4 +54,5 @@ document.addEventListener('DOMContentLoaded', function() {
             addTask();
         }
     });
+    // end of the script
 });
